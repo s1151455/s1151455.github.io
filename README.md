@@ -12,7 +12,7 @@ This is my personal portfolio and project showcase website built with GitHub Pag
 - [Course Repository](https://github.com/你的帳號名稱/11501_CI001) — CI001 Course assignments
 
 ## Contact
-Feel free to reach out to me at [你的學號]@mail.yzu.edu.tw## Hi there 👋
+Feel free to reach out to me at [s1151455]@mail.yzu.edu.tw## Hi there 👋
 
 <!--
 **s1151455/s1151455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
